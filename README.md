@@ -15,4 +15,4 @@ and then copies them to a backup folder on the Desktop. After that it archives i
 
 <b>Which extensions are included?</b>
 
-.txt .pdf .jpg .png
+.txt .pdf .docx .jpg .png
