@@ -6,6 +6,7 @@ Zippy is a simple python program which can fast backup and archive all your impo
 
 <b>Requirements:</b>
 - Python Installed
+- Admin Privileges (Run as Admin)
 
 <b>How it works?</b>
 
