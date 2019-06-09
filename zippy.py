@@ -180,6 +180,9 @@ try:
 except:
     print('--------------------------------------------------------------------')
     print('ERROR: Unable to Archive The Backup Directory (Try using Administrator Level Privilege.)')
-
+    print('Type \'exit\' to close the app.')
+    exitString = input()
+    if 'exit' in exitString:
+        sys.exit()
 
 
